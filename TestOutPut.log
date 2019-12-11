@@ -1,0 +1,13 @@
+09/12/2019 22:33:42 MyLogs ****************** STARTING APPIUM ************************
+09/12/2019 22:33:50 MyLogs  ====Executing test Steps====
+09/12/2019 22:34:13 MyLogs =======================PRODUCT DETAILS======================== 
+09/12/2019 22:34:13 MyLogs Product =>Java Programming, 9th Edition By Joyce Farrell [PĐF]. Price =>$2.95
+09/12/2019 22:34:13 MyLogs =============================================== 
+09/12/2019 22:34:13 MyLogs =======================PRODUCT DETAILS======================== 
+09/12/2019 22:34:13 MyLogs Product =>Programming Fundamentals Using Java [P.D.F] book. Price =>$2.95
+09/12/2019 22:34:13 MyLogs =============================================== 
+09/12/2019 22:34:13 MyLogs =======================PRODUCT DETAILS======================== 
+09/12/2019 22:34:13 MyLogs Product =>[P..D..F] Killer Game Programming in java. Price =>$2.49
+09/12/2019 22:34:13 MyLogs =============================================== 
+09/12/2019 22:34:36 MyLogs Test Passed 
+09/12/2019 22:34:36 MyLogs ****************** EXITING SERVER ************************

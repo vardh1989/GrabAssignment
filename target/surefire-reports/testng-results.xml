@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object Model with Page Factories" duration-ms="45070" started-at="2019-12-09T17:38:47Z" finished-at="2019-12-09T17:39:32Z">
+    <groups>
+    </groups>
+    <test name="Ebay Test" duration-ms="45070" started-at="2019-12-09T17:38:47Z" finished-at="2019-12-09T17:39:32Z">
+      <class name="Tests.EbayTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.EbayTest@20322d26]" name="setup" is-config="true" duration-ms="6879" started-at="2019-12-09T17:38:40Z" finished-at="2019-12-09T17:38:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="init()[pri:0, instance:Tests.EbayTest@20322d26]" name="init" is-config="true" duration-ms="268" started-at="2019-12-09T17:38:47Z" finished-at="2019-12-09T17:38:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testSteps()[pri:0, instance:Tests.EbayTest@20322d26]" name="testSteps" duration-ms="44783" started-at="2019-12-09T17:38:47Z" finished-at="2019-12-09T17:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSteps -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Tests.EbayTest@20322d26]" name="teardown" is-config="true" duration-ms="2348" started-at="2019-12-09T17:39:32Z" finished-at="2019-12-09T17:39:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.EbayTest -->
+    </test> <!-- Ebay Test -->
+  </suite> <!-- Page Object Model with Page Factories -->
+</testng-results>

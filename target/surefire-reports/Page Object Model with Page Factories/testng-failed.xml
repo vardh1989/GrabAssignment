@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Page Object Model with Page Factories]">
+  <test thread-count="5" verbose="0" name="Ebay Test(failed)">
+    <classes>
+      <class name="Tests.EbayTest">
+        <methods>
+          <include name="testSteps"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- Tests.EbayTest -->
+    </classes>
+  </test> <!-- Ebay Test(failed) -->
+</suite> <!-- Failed suite [Page Object Model with Page Factories] -->
